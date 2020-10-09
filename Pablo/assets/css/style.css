@@ -1,0 +1,88 @@
+:root{
+    --gris: #707070;
+    --negro: #373A3C;
+}
+nav a img {
+    width: 25%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: var(--negro);
+    font-weight: 400;
+}
+
+.color_fondo{
+    background-color: #000000;
+}
+
+nav a img {
+    width: 100px;
+}
+
+main header h1 {
+    color: var(--gris);
+    font-weight: 700;
+    font-size: 35px;
+
+}
+html {
+    background:  no-repeat center center fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+.card {
+margin: 25px;
+}
+
+#text {
+
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.card-title, .icons-section p {
+    font-weight: 700;
+}
+footer h2 {
+    
+    font-weight: bold;
+    color: white;
+}
+footer img {
+    width: 40px;
+}
+
+
+main header h2 {
+
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+}
+
+section h2 {
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+
+}
+#carrusel {
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+}
+section p {
+    font-weight: bold;
+    font-size: 20px;
+}
+#contacto {
+    text-align: justify;
+    margin-left: 150px;
+}
+#subtitulo {
+    text-align: justify;
+    margin-left: 150px;
+}
